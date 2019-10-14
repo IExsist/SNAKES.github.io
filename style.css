@@ -1,1 +1,58 @@
 
+/* this CSS page is for the styling of the main page. This page is used to change the background colour, font, text colour, and the link buttons*/
+
+body {
+  
+  background:seagreen;
+  
+}
+
+h1 { 
+  
+  color:#ffffff 
+
+}
+
+p {
+  
+  color: #ffffff;
+  
+}
+
+h1 {
+  
+  font-weight: bold;
+  
+}
+
+img{
+
+  border: solid;
+  
+  border-color: #ffffff;
+  
+}
+
+a{
+  
+  color: #ffffff;
+  
+}
+
+.link-button {
+  
+  border-radius: 12px;
+
+  background: #ffffff none repeat scroll 0 0;
+
+  border: 1px solid white;
+
+  color: seagreen;
+
+  outline: medium none;
+
+  padding: 12px;
+
+  text-decoration: none;
+
+}
