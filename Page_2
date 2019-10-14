@@ -1,1 +1,57 @@
+<!DOCTYPE html>
 
+<html>
+  
+  <head>
+    
+    <!-- This bit of info is what makes the code in the style2.css apply to this page and the page after. -->
+    <link rel="stylesheet" href="style2.css"/>
+    
+  </head>
+  
+  <body>
+    
+    <center>
+    
+    <font face="verdana" color="black">
+      
+      <!-- This information is used for the link button to send the user back to the main page. -->
+      <a href="Main Page.html" class="link-button2">Go Back</a>
+      
+    <h2> Venomous Snakes: </h2>
+      
+    <p> There are many types of snakes, however, not all of them are deadly. These ones, on the other hand, are.
+    </p>
+      
+     <!-- This is an Image tag -->
+    <img src="south_american_bushmaster.jpg" alt="South American Bushmaster" style="width:250px;height:200px;">
+      
+    <p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.flickr.com/photos/97578613@N08/16167275284">"Nashville Zoo 08-27-2014 - South American Bushmaster 1"</a><span>by <a href="https://www.flickr.com/photos/97578613@N08">David441491</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
+
+    <p>
+     The South American Bushmaster (Lachesis muta) is a snake commonly found in main regions of south america. It's prey consists of small rodents, and it has a potentially lethal venom. It can reach lengths of up to 12 feet. This snake is typically yellow, red, orange, or brown. This snake's venom attacks the heart and blood. Their size means that they produce large amounts of venom.
+    </p>
+      
+      <!-- This is also an Image tag -->
+    <img src="saw_scaled_viper.jpg" alt="Saw Scaled Viper" style="width:300px;height:200px;">
+      
+    <p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.flickr.com/photos/30142279@N07/41841044795">"Echis carinatus"</a><span>by <a href="https://www.flickr.com/photos/30142279@N07">AlexandreRoux01</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
+      
+    <p>
+      The saw scaled viper (Echis carinatus) can be found in the middle east. It is very common in densely populated areas. Because of this, it is responsible for more human deaths than any other snake. The snake's venom attacks the cell membrane and destroys it. If people do survive, they may still lose a limb. Scientists are attempting to discover an antivenom that can save both life and limb.
+    </p>
+      
+      <!-- This is also also an Image tag -->
+    <img src="faint_banded_sea_snake.jpg" alt="Faint Banded Sea Snake" style="width:250px;height:200px;">
+      
+    <p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.flickr.com/photos/24966179@N00/52366029">"Banded Sea Snake 73"</a><span>by <a href="https://www.flickr.com/photos/24966179@N00">High Desert Rider</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
+  
+    <p>
+      Another deadly snake is the Faint-banded sea snake (Hydrophis belcheri), it has an extremely dangerous bite, a single drop can kill around 1,800 people. Thankfully, it is not commonly known to bite humans (unless provoked, of course). 
+      </p></font>
+      
+      </center>
+    
+  </body>
+  
+</html>
