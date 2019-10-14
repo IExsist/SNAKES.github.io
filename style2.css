@@ -1,1 +1,53 @@
+/* This CSS page is used to style the 2nd and 3rd pages (Venomous/ Harmless snakes). Much like the first CSS, this one includes the styling for the background colour, font, text colour, and the link button */
 
+body {
+  
+  background: darkseagreen;
+  
+}
+
+p {
+  
+  color: #ffffff;
+  
+}
+h2 {
+  
+  font-weight: bold;
+  
+}
+h2 {
+  
+  color: #ffffff
+    
+}
+
+img{
+  
+  border: solid;
+  
+  border-color: #ffffff
+    
+}
+
+a{
+  
+  color: #ffffff;
+  
+}
+
+.link-button2 {
+  
+  border-radius: 12px;
+
+  background: #ffffff none repeat scroll 0 0;
+
+  color: darkseagreen;
+
+  outline: medium none;
+
+  padding: 10px;
+
+  text-decoration: none;
+
+}
